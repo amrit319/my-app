@@ -44,6 +44,7 @@ function App() {
       document.title = " textUtils - light mode";
     }
   };
+  console.log("Testing Github");
   return (
     <>
       <Router>
